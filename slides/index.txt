@@ -1,4 +1,5 @@
-01_servers
+01a_the_internet_and_urls
+01b_hosting_on_github
 02_learning_html
 03_basic_css
 04_css_layout
