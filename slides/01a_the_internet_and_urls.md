@@ -1,5 +1,5 @@
 <!-- .slide: data-state="title" -->
-# Github and the Web
+# The Internet and URLs
 
 ---
 
@@ -107,7 +107,7 @@ Think of DNS servers as the Post Office, by reading the zip code, they know the 
 
 ## Top Level Domains
 
-https://www.youtube. **com** /watch?v=MspVCc0_R3g&t=37s#top
+<small>https://www.youtube. **com** /watch?v=MspVCc0_R3g&t=37s#top</small>
 
 
 - [Domain type](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
@@ -128,7 +128,7 @@ In recent years, the amount of TLDs has exploded into many other categories, whi
 ---
 
 ## Port Number
-https://www.youtube.com **:8707** /watch?v=MspVCc0_R3g&t=37s#top
+<small>https://www.youtube.com **:8707** /watch?v=MspVCc0_R3g&t=37s#top</small>
 
 - A way to divide app requests
 - Request sent through ports
@@ -142,7 +142,7 @@ Think of this as channels on radio or TV. They allow you to send different types
 ---
 
 ## Path
-https://www.youtube.com **/watch** ?v=MspVCc0_R3g&t=37s#top
+<small>https://www.youtube.com **/watch** ?v=MspVCc0_R3g&t=37s#top</small>
 
 - The App, page, file or service you want
 - Often a folder/file structure
@@ -162,7 +162,7 @@ This isn't the way YouTube or some other service works though, they use the PATH
 
 ## Query/Parameters
 
-https://www.youtube.com/watch **?v=MspVCc0_R3g&t=37s** #top
+<small>https://www.youtube.com/watch **?v=MspVCc0_R3g&t=37s** #top</small>
 
 
 - Information to pass
@@ -178,7 +178,7 @@ The query starts with a question mark and you can then add a series of variables
 
 ## Fragments
 
-https://www.youtube.com/watch?v=MspVCc0_R3g&t=37s **#top**
+<small>https://www.youtube.com/watch?v=MspVCc0_R3g&t=37s **#top**</small>
 
 - Subordinate resource
 - ID inside page
